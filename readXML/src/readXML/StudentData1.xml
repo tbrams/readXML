@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <DOCUMENT>
+       <STUDENT>
+         <NAME>
+	   Anorexic Al
+	 </NAME>
+	 <ADDR>
+	   10 Slimway Rd
+	 </ADDR>
+	 <GRADE>
+	   A
+	 </GRADE>
+       </STUDENT>
+       <STUDENT>
+         <NAME>
+	   Bulimic Bill
+	 </NAME>
+	 <ADDR>
+	   123 Upchuck Drive
+	 </ADDR>
+	 <GRADE>
+	   B+
+	 </GRADE>
+       </STUDENT>
+       <STUDENT>
+         <NAME>
+	   Cadaverous Chen
+	 </NAME>
+	 <ADDR>
+	   14 Mordant St.
+	 </ADDR>
+	 <GRADE>
+	   B-
+	 </GRADE>
+       </STUDENT>
+    </DOCUMENT>

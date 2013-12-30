@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><node>
+   <item>null</item>
+   <question>Please imagine an animal.
+Are you ready</question>
+   <yes>
+      <node>
+         <item>null</item>
+         <question>kan den klatre</question>
+         <yes>
+            <node>
+               <item>en abe</item>
+               <question>null</question>
+               <yes>null</yes>
+               <no>null</no>
+            </node>
+         </yes>
+         <no>
+            <node>
+               <item>null</item>
+               <question>kan den flyve</question>
+               <yes>
+                  <node>
+                     <item>null</item>
+                     <question>flyver den om natten</question>
+                     <yes>
+                        <node>
+                           <item>En flagermus</item>
+                           <question>null</question>
+                           <yes>null</yes>
+                           <no>null</no>
+                        </node>
+                     </yes>
+                     <no>
+                        <node>
+                           <item>A pigeon</item>
+                           <question>null</question>
+                           <yes>null</yes>
+                           <no>null</no>
+                        </node>
+                     </no>
+                  </node>
+               </yes>
+               <no>
+                  <node>
+                     <item>en tiger</item>
+                     <question>null</question>
+                     <yes>null</yes>
+                     <no>null</no>
+                  </node>
+               </no>
+            </node>
+         </no>
+      </node>
+   </yes>
+   <no>null</no>
+</node>
